@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://d8mk9ontgt3ju.cloudfront.net/out/v1/315f3ee0daa043338bfa5bfcce8f2f33/index_3.m3u8
+https://edge-4.volume.com/live-hls/amlst:danielmorend-sd-c282b2a93bea85d217a12c2d704ffd97b6d97bcc7b0be90784ee58079c87991d_trns_h264/chunklist_w938625178_b448000_t64RlBTOjMwLjA=.m3u8
