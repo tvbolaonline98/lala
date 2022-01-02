@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/b9dfou-r7nc72WGknwcneEKhv2U5NQntbXYX72_-H0WYXvkkFwfa9yGXieH0k3IU4ItaMH10eo1yZGN5BZ6Mhw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/QUly2b0RrUg-As2Q4lSc6UxJRsRT7TCyENCOW_pt9cgatsYBd69B79MQCNQ8zKiThuze292L5oGyixuKKXO7hA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
