@@ -6,7 +6,7 @@
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 
-https://europe-west-hls.mls.mycujoo.tv/esgp/ckyjqsvkw00jh0181xj9rtnt9/720p/playlist.m3u8
+http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/O0LrsguQ_11Qhy1gqJCxs0tPyYla8ZzotR9Y-25ed_8LLf8aPtsXTzNACLx-6-1Tc18X955fthmK97Seexg18Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/playlist_16803794954523860940.m3u8?type=live
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 
