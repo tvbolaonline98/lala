@@ -6,8 +6,7 @@
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/O0LrsguQ_11Qhy1gqJCxs0tPyYla8ZzotR9Y-25ed_8LLf8aPtsXTzNACLx-6-1Tc18X955fthmK97Seexg18Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
+http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1643918749&a=114.10.6.163&u=10e9c521ff2f7e633e495c762e08b430&k=0e4df9d6278d1c086ffc63cfd9910cb3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 
 tt
