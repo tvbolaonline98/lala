@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/O0LrsguQ_11Qhy1gqJCxs0tPyYla8ZzotR9Y-25ed_8LLf8aPtsXTzNACLx-6-1Tc18X955fthmK97Seexg18Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=cmmjzmo6Vpl&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=2804:5484:a:b6e0:755d:43dc:2e35:363d&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=47ee8c47&expired=1643931027&token=46D695292410A2A15482CB2CC6E867E3&media_code=m3_ScQBL06LuJftF_264
