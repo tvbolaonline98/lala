@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8
+http://hls.luziedu.com/livestream/ch37/playlist.m3u8?t=1644676791&a=114.10.18.23&u=08947b68ce76aae9c2456e9a46a4085d&k=bbccd5ea5ba345c818b5d9de64467212
