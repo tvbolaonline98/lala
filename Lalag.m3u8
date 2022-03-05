@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.szbbnrt.com/rrty/sd-1-3570814.m3u8?txSecret=01aafe16ba70ff74d237a80a07e13c36&txTime=62235C67
+https://video.zettao.com/org/45070011/playlist.m3u8?time=1646496407&auth_token=838d550cd2cfbad8e96cfd864afd515c&wsSession=dd299f6eb3b0bd2afa62a040-164648560880570&wsIPSercert=e1c809f39313f50732196a096e0d7637&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://play.bear0625.cn/tianxiatv/stream-43e831135a5540fe80690c61044f6e93.m3u8
