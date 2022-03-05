@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/aiqiyi3.m3u8?auth_key=1645896000-2ea5a5f9f2f04b0fb387feb960fad61b-0-cbbcbbc2cfb7907bbee3b1098ae991a2
+https://play.szbbnrt.com/rrty/sd-1-3570814.m3u8?txSecret=01aafe16ba70ff74d237a80a07e13c36&txTime=62235C67
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://play.bear0625.cn/tianxiatv/stream-43e831135a5540fe80690c61044f6e93.m3u8
