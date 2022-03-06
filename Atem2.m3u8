@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://dhupqdk9ry2o5.cloudfront.net/stream/MzEyNQ==/1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-ll
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/Odvx7IEtZEJERVYuK3Jqkra8akqqorIUXNexuoVXToi_avoHnZkDV2MNMGm0nKTAPXO_mLidD6l8V6GPBSyAzw/transcode/sa-east-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
