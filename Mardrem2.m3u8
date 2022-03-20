@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lklk
+https://d17lu2syx7ax41.cloudfront.net/live/stream6884.m3u8?Expires=1647840900&Signature=QdeHdrDQxN1aRDiVClDpGbRy7afUVjLcI7bhYoBCG8Ug2lNCjhHFGDh5Gp3DQDHgfrWdtWzxr1kEnM0f6Yy5RXvKT-IpfNld2~EH3GN36j9OKpc6CFvfCup7fpSlUgLbwJ61o3FhOFkWuWzeNSZnIAPuA76Jz52ihOBpEhVPydIgBNAfVQsEBl7DpwQXrKuEt3mPaDV9~iNZklDqqbmWgqU9sT5-4yLqcH9UHyefaJr9UiGCTwT8Q7KjT2v-d88W7J67uaq~RMSC~cVj3209WDmMbcTN7J~8lBd821iTmUnBvHwlVUzqVSXE5~~VyXixlgwXRGarmSmfgOoyqmrOfA__&Key-Pair-Id=K1SXOWNSQGJT65
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/rV5btatsMVpyUpnZgooopYtc--glSkImFgqqhkprPTuEp8tbZjSW4mAF4tsoU71-DE0BZtg-vvDQcgyvN1cCcA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
