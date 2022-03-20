@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-http://hls.luziedu.com/livestream/ch37/playlist.m3u8?t=1644676791&a=114.10.18.23&u=08947b68ce76aae9c2456e9a46a4085d&k=bbccd5ea5ba345c818b5d9de64467212
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
