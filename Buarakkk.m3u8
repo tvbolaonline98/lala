@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d17lu2syx7ax41.cloudfront.net/live/streamhd6924.m3u8?Expires=1649046900&Signature=KccLLOuJZvic598ve1g~x~9n6cn1bbNTFqDom7cIFUogcQBF3OSQXtyn0vlPoa8pGlBORGDwZSO942NlyijPrqKp3WdQ7QTWEgXcTsheRC85svG1q299TOChBSsM8RiJnM5DRM8wqoGXba1OyPaic7qPOFwETV2wLLQq6a5hBHl4HfP~WRn52usRVemruuyMYpqHjT8C~OCBZp-2oe4DM1lzER-7UtWRi10QlYzpvkN2MMgpdYXSlxtbFxNBY3AXcBCPQOuh0HDNPJnKHqXvjTw5t6XfSKmsAix8Ce0IFkVuAotarvhFnQvlPZyjHEiNw9VGKWvXNYoosWmNYVkuug__&Key-Pair-Id=K1SXOWNSQGJT65
+https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BpSMNyow3MJtBpjs6e_T1wVxEruKJiktR0ZgKV-L6_JJwtuJY09hKY3RFld0zweYEgmIAT0zyaZiNbQQSSaoLA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
+lkl
