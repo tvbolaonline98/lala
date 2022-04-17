@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lkl
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/5lMUHrnmRCHLY_0dcQ3kv-t8zd0odJXrZYfW2cEOKOW0w4l3EP1fcj1DQRkyVlS6VsrVGDYNT4B-8lfEPgj-yw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/P4oHQqsNFzDI34hwFVvnN-4hv42clVzwS5vP6bKSTa1x8kjS2EIMhbsvvwbbGpKBvrgbHcpHD8Omleim_FNv7w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_dynamic_highlatency.m3u8?type=live&view=svideo&m=1%27];%20%20%20%20%20%20%20%20%20%20%20var%20no_mobile_iframe%20=
