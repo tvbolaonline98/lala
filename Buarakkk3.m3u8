@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4616963/e/1_ajmhvuy0/tl/main/st/0/t/7FUYYqGRCNnTc4ctQYC4Kg/index-s32.m3u8?__hdnea__=st=1652208164~exp=1652294564~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4616963/e/1_ajmhvuy0/tl/main/st/0/t/7FUYYqGRCNnTc4ctQYC4Kg/index-s32.m3u8*~hmac=d0eb198cf88483ed9658a99a0d8777fa00dc5472773dedaf862b07306d55d861
+https://play2.moto05.com/live/streamhd6952.m3u8?txSecret=a147a936e5848ac1c407a40f7b155215&txTime=627C0D7C
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 link
