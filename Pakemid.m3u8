@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://rmue2hq1pcliv.vcdn.cloud/f0f2dc673d15b30eeeb57c2c96bdde57/1652078120585/arcbbhv/arcbbhv@720p.m3u8
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/okAG-HIbZqWQqd7FN5SVhZp7_Qzwe4YoXpu_KGcUISydTzYKlaWNVvWthXt-6izsmPX_xnNtOSHrLBmzaN8RMw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://rmue2hq1pcliv.vcdn.cloud/f2297b3b47601e398367b4cad33261e4/1652078291442/rchtwtx/rchtwtx@720p.m3u8
+lk
