@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/gOTNptnY5ZpvVrToYl8eutJ_pc35I46GKxb-MZEBILZRRwrVwjDgUEJ4R09MZgXomqDlMk1pwxuq5tdbABGVRQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tm_dynamic_highlatency.m3u8?type=live
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_cybcdq4e/tl/main/st/0/t/1c0wEDj5L2DKSlcaeWrEHg/index-s32.m3u8?__hdnea__=st=1652382322~exp=1652468722~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_cybcdq4e/tl/main/st/0/t/1c0wEDj5L2DKSlcaeWrEHg/index-s32.m3u8*~hmac=49f0c508f300c160983fd67c36145bb75502de9b9da29d72184186904e575dc5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/t7c_OPiEv3TGehq5c91c8JOAWbhfTjQQCH1WDWf3B07doXdaVexMcbruoa9cDfjiN36_ieWbpRPXLDoltkSlCg/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+lk
