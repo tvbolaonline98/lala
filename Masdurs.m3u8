@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GiC0afdyF8FdbcWrJ2Gdzjji8zjkpcFSPYNgxUbyzQSOYh583qPP-p38F9pVkvmYZrGMO5RazbK5f9qFeSH-Eg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tm_dynamic_highlatency.m3u8?type=live
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/j-iZddv_v2p4hBBV5gxnX7QPRbstCFI8b816f5xYZYNfdl9CCKpcTPRxmrE71T3C6JpMYdGQyOhsWu3Jcv-RDw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/-HxWIZbRpB2NymYM26YCR65JVkRAvl6WqADs6SyIRQtD_GX1c5N-XAVESxh6BwuISbwM0buGgzAPhbbdKIJegQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
+lk
