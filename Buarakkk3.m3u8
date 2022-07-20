@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://97192c78be.vws.vegacdn.vn/live/_definst_/stream_1_48485@8837/chunklist.m3u8
+http://livehls.ltjuq.top/ofmatch/6565690.m3u8?auth_key=1658275867-970483b073594a94c6ec37770fcfe487-0-326c165175640a8d19dc40a72f1e8565
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://a-go11.streamtec.xyz/hls10/stream.m3u8?Key=__2GU7XopEYc_bGkTzAcOg&Expires=1658283127
