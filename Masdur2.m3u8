@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1658633126~acl=%2F0eeca725-4ed9-4a0c-ba2d-fff4e9bc3fc9%2F%2A~hmac=4c6b470dfc7cd63cff4c465a6a40de0381765ee5821ce821f0fd87f3612480f4/0eeca725-4ed9-4a0c-ba2d-fff4e9bc3fc9/chunklist_b3256000.m3u8
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1658641809~dirs=1~hash=07f6a0c3e474c9dde4550/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://vkvsd88.mycdn.me/hls/2857009613331.m3u8/sig/7weWbEJb0Bs/expires/1658715184344/srcIp/114.10.5.223/clientType/13/srcAg/CHROME_ANDROID/mid/4470840765203/2857009613331_high/index.m3u8?p
