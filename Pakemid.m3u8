@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/96423.m3u8
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/UGNU6om_jVNLh4mGl0lUMCG2oLPxdSEjrxb3vXc3YYJRqmJPLyLB8pXLLdgHuOa7Te4CcaxcoWrOZZy3f5Gx5g/transcode/us-west-2/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+https://livestream-2.socialstreaming.tv/live/62e160ee2fd5da001c0b58ec/62e160ee2fd5da001c0b58ec.m3u8
