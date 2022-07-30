@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://402173194.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=rQQAAMng_p2UiQUX&secondToken=secondToken%3AWJEHZfy-Gd5oT4SxFN-gdx0pPlQ&sign=7c47fe33eab2f4aa82ffce252264488b&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3744584&t=62e09ae8&v3=1
+https://vsd110.mycdn.me/hls/2878265297489.m3u8/sig/UExUP2v-xXI/expires/1659307496666/srcIp/114.10.20.149/clientType/0/srcAg/CHROME_ANDROID/mid/4720289259089/2878265297489_high/index.m3u8?p
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://tv4.calcio02.pw/live/juve.m3u8
