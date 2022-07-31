@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1659248290~dirs=1~hash=094674dffd05544db2384/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1659233428~dirs=1~hash=0e5486949efe143e2a484/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
+https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/uzGjVU4zFQNlZdfvpKXDiYtDf4kPE1XMM5MStObd2vuDfdLPHTi-JvNoYmzMKEtKhIDXat-2C_NFL90aVMX-EA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
