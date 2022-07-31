@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1659248290~dirs=1~hash=094674dffd05544db2384/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1659233428~dirs=1~hash=0e5486949efe143e2a484/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
