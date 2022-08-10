@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://1991cordier.azureedge.net/stream/NDcwNQ==/1080p.m3u8
+https://craff23.s.llnwi.net/live/streamhd21958.m3u8?Expires=1660192500&Signature=fpy0~KfW6oe7WVZ7Tb0BoE1kNqldyODzuV123298YivzkCMwdv8Id5rbxAPZg7yPQT0S5zA93f88EpDiqD-AQMbgAPwLVjL3rLVII4EGUXtuzAfrwSbk2fZzMMdHAt~HuSX-jUuSrhq9XlN~JKc7VYgClmsbIuJrj2Ipvmwl9NN36tm7ZO4AoKA9G3Sde1LiFBwCZ6kYFcfvNeX~pjhWT4yx95-zXDr076lyeX~GNt23WOmjD3vuRujd1YetIvfffdVdWtsAtgxk1lAVeEIlw8V3m69YNoKaRuKuijijQGD8WmrWi6BNaMP5uMlxihb~f6zz7jL2w0xz9GzlScHmTw__&Key-Pair-Id=K1SXOWNSQGJT65
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/uzGjVU4zFQNlZdfvpKXDiYtDf4kPE1XMM5MStObd2vuDfdLPHTi-JvNoYmzMKEtKhIDXat-2C_NFL90aVMX-EA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
