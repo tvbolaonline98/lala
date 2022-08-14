@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://ghghg-usea.streaming.media.azure.net/b020e22b-8d7c-4304-9556-0b4049cf84b0/5aba9612-79d7-4b93-8c9c-38fe5007e18a.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+http://akamai2-me.cdn.booyah.live/hls/1700002/120111393.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/170299030.m3u8?auth_key=1660522740-0-0-4a5292f049327617557342adaa088fed
