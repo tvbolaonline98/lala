@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dgfdds-usea.streaming.media.azure.net/cce3d681-2a28-4f92-87ed-607715e394a1/38da0be3-d4d0-480c-8661-1265570d4761.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/c2wx0eIUpz1aSNQsD9CzZ9RnxQmzhKE1UgVPKW0OoSSOz8oc0osMsTLV2wWz0-WQSJsLyvhNyF6blxxJov5zvg/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://akamai2-me.cdn.booyah.live/hls/1700000/120365315.m3u8
 #https://tv1.calcio02.pw/live/barca.m3u8
