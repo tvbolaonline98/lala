@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dcvvv-usea.streaming.media.azure.net/0464680f-dc61-49ba-8e59-e3d96386d258/acf1386a-094c-4b64-aed8-a772cc00f8f8.ism/QualityLevels(1350000)/Manifest(video,format=m3u8-cmaf)
+https://dcvvv-usea.streaming.media.azure.net/0464680f-dc61-49ba-8e59-e3d96386d258/acf1386a-094c-4b64-aed8-a772cc00f8f8.ism/QualityLevels(1350000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://b7i4j3n3.stackpathcdn.com/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@amazonaws@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/transcode-83-243/bfb34dc7e5770fa2d84/1659204174/src/live.m3u8?md5=LS2uVhZoZtsneH9TohzrwQ=expires=1659193834=Referer=https://olacast.live
+l
