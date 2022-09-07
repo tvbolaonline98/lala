@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://tv.tas-ix.tv/hls/token_29.m3u8
+https://d1nr15iwgim2e4.cloudfront.net/streaming/124f62ca38fa19eedc2e40dd5d20b3f3_mv_ls_hd/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull-hls-l11-va01.ttlivecdn.com/game/stream-2993836587341316196_uhd.m3u8
 #https://tv1.calcio02.pw/live/barca.m3u8
