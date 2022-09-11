@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5w3GwwghtB8xWJjn5nV5xyhP74ehrei_VO11nQbYkmllbiZutGkuduteS9Tptb6ypOMxwsTXjC30QyHivUfZ9w/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
+https://live-ak.vimeocdn.com/exp=1662900730~acl=%2F6295de64-5a20-4207-84f6-095dbe9c717f%2F%2A~hmac=6a49b97951c4e5fb5b04df536eb7000ce77725ddada273d4bf2b968c3ec29a44/6295de64-5a20-4207-84f6-095dbe9c717f/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/735668647.m3u8?auth_key=1662915659-0-0-bc321b43a1dfa2c5dff94e883c94acaa
