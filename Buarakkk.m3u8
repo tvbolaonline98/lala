@@ -3,5 +3,5 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0yTDbjA5Hl4O44ybPN7sB8L9J8YgmI8cNmKSh9TGUkBvTsdgljMHlQmldjRN3Ez-4nP5S1on2b6xh2Hgiqy2Gw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://manifest-gce-us-east4-production.fastly.mux.com/02gh02pUEDhWBG5tUGlz3lGXLTbQftRKuctuMI9zvaI78mFwXHC6ENMROX1Lq6IzXBIs8TewXfetXIJDrA3zTVFmWPE00GqJDDq/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1663555200&live=1&skid=default&signature=NjMyN2Q2ODBfMTc2NDg2MDJiNmU3MzY0MDdhNGM4M2UxNTQ1NzI4NDI3M2UwMzBmYzNmZmNkNzVkMWRkNGQxZjhiMTcxNzE2MA==
+https://pull.jljiapu.com/armenia/120849142.m3u8?auth_key=1663440360-0-0-2399519600f1bbfe16ff470a6d2261d7
 #https://unifi-live05.secureswiftcontent.com/UnifiHD/live13-360H.m3u8
